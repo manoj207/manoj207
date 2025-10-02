@@ -4,7 +4,6 @@
 - Working on different things at a time
 - Collaborate on real world projects
 - Pronouns: He/Him/His
-- Learning Multiple Tehcnologies and frameworks
 
 
 
