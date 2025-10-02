@@ -2,6 +2,7 @@
 - This is my another new account
 - This account is for testing purposes
 - Working on different things at a time
+- Collaborate on real world projects
 
 
 
