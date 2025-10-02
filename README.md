@@ -3,6 +3,7 @@
 - This account is for testing purposes
 - Working on different things at a time
 - Collaborate on real world projects
+- Pronouns: He/Him/His
 
 
 
